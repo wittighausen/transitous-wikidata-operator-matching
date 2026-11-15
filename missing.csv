@@ -258,7 +258,6 @@ motis_id,name
 13654,Schmetterling Reisen
 13655,Erlanger Stadtverkehr
 13664,Hetzler & Pfadt vorher Viabus
-13666,Westpfalz
 13677,Reicheneder
 13706,Stadtbus Weiden
 13716,Wagenhäuser
@@ -333,7 +332,6 @@ motis_id,name
 14420,Regionalverkehr Westsachsen GmbH
 14422,Stadtverkehr Friedrichshafen
 14427,Mittelhaardt Nahverkehrsgesellschaft mbH
-14428,Vorderpfalz
 14432,OstalbMobil
 14437,Die Länderbahn GmbH
 14518,Griesar Reisen GmbH
@@ -363,7 +361,6 @@ motis_id,name
 14622,MEW Mobilitätszentrale Elbe-Wesr
 14647,DBSch
 14662,Haßberge
-14667,SVL Süddeutsche Verkehrslinine GmbH &
 14672,Stadtverkehr Bad Kissingen
 14677,LB 7 Schütt VGN 252 - 2541
 14682,ww mobility GmbH
@@ -379,9 +376,6 @@ motis_id,name
 14775,Bus RV Oberbayern
 14776,Bus Bayreuth
 14777,Bus Coburg
-14784,SBG-Freiburg
-14785,SBG-Villingen
-14786,SBG-Waldshut
 14789,Omnibusverkehr Abt Schwäbisch Gmünd1
 14812,Via Rhein Main Mobility GmbH
 14822,Verkehrsgesellschaft Merzig-Wadern
@@ -842,7 +836,6 @@ motis_id,name
 8108,Stadtverkehr Schwandorf (WiesBus)
 811,Autobus AG Liestal
 8112,RegioBus NVH
-8118,U-Bahn München
 812,VR Snabbtåg
 8121,Stadtwerke Passau
 8122,Stadtwerke Trier
@@ -1009,7 +1002,6 @@ motis_id,name
 9316,Padersprinter
 9338,wupsi GmbH
 94,RegioBus Steiermark
-9407,Süddeutsche Verkehrslinien
 9421,Pfiffibus
 9441,Stadt-Bus-Verkehr Straubing
 9451,Kraftverkehr B. Menchen GmbH & Co.KG
